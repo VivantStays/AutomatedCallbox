@@ -1,0 +1,6 @@
+<Response>
+<Say voice=”woman”>Welcome Home.</Say>
+<Play>http://www.dialabc.com/i/cache/dtmfgen/wavpcm8.300/6.wav</Play>
+</Response>
+
+<!-- http://www.dialabc.com/sound/generate/ -->
